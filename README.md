@@ -19,7 +19,7 @@ Effective advertising is crucial for the success of businesses in a competitive 
 ## Quick Start Guide: Running the Project
 To run the project, follow these steps:
 ### 1. Clone the Repository: 
--git clone https://github.com/pasupathi0427/AdsClassification_SocialNetwork.git
+- git clone https://github.com/pasupathi0427/AdsClassification_SocialNetwork.git
 
 ### 2. Add the Repository to Google Drive:
 - Upload the cloned repository folder to your Google Drive.
