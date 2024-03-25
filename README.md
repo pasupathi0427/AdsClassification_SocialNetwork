@@ -25,7 +25,7 @@ To run the project, follow these steps:
 - Upload the cloned repository folder to your Google Drive.
 
 ### 3. Open the AdsClassifier.ipynb File in Google Colab:
-- Navigate to [Google Colab] (colab.research.google.com).
+- Navigate to [Google Colab](colab.research.google.com).
 - Click on `File` > `Open Notebook` > `Upload`.
 - Select the `AdsClassifier.ipynb` file from the cloned repository in your Google Drive and open it.
 
